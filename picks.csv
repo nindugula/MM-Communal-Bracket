@@ -74,7 +74,7 @@ South R1-1,Florida,Becca
 South R1-2,Clemson,Becca
 South R1-3,Vanderbilt,Becca
 South R1-4,Nebraska,Becca
-South R1-5,N.,Becca
+South R1-5,N.-Carolina,Becca
 South R1-6,Illinois,Becca
 South R1-7,MARYCA,Becca
 South R1-8,Houston,Becca
@@ -90,7 +90,7 @@ Midwest R1-1,Michigan,Becca
 Midwest R1-2,Georgia,Becca
 Midwest R1-3,Texas-Tech,Becca
 Midwest R1-4,Alabama,Becca
-Midwest R1-5,Carolina,Becca
+Midwest R1-5,Tennessee,Becca
 Midwest R1-6,Virginia,Becca
 Midwest R1-7,Kentucky,Becca
 Midwest R1-8,Iowa-St.,Becca
@@ -200,7 +200,7 @@ South R1-1,Florida,Catherine
 South R1-2,Clemson,Catherine
 South R1-3,McNeese,Catherine
 South R1-4,Nebraska,Catherine
-South R1-5,N.,Catherine
+South R1-5,N.-Carolina,Catherine
 South R1-6,Illinois,Catherine
 South R1-7,MARYCA,Catherine
 South R1-8,Houston,Catherine
@@ -216,7 +216,7 @@ Midwest R1-1,Michigan,Catherine
 Midwest R1-2,Georgia,Catherine
 Midwest R1-3,Texas-Tech,Catherine
 Midwest R1-4,Hofstra,Catherine
-Midwest R1-5,Carolina,Catherine
+Midwest R1-5,Tennessee,Catherine
 Midwest R1-6,Virginia,Catherine
 Midwest R1-7,Santa-Clara,Catherine
 Midwest R1-8,Iowa-St.,Catherine
@@ -515,7 +515,7 @@ South R1-1,Florida,Dana
 South R1-2,Iowa,Dana
 South R1-3,Vanderbilt,Dana
 South R1-4,Nebraska,Dana
-South R1-5,N.,Dana
+South R1-5,N.-Carolina,Dana
 South R1-6,Illinois,Dana
 South R1-7,Texas-A&M,Dana
 South R1-8,Houston,Dana
@@ -531,7 +531,7 @@ Midwest R1-1,Michigan,Dana
 Midwest R1-2,Saint-Louis,Dana
 Midwest R1-3,Texas-Tech,Dana
 Midwest R1-4,Alabama,Dana
-Midwest R1-5,Carolina,Dana
+Midwest R1-5,Tennessee,Dana
 Midwest R1-6,Virginia,Dana
 Midwest R1-7,Kentucky,Dana
 Midwest R1-8,Iowa-St.,Dana
@@ -578,7 +578,7 @@ South R1-1,Florida,Danny
 South R1-2,Clemson,Danny
 South R1-3,Vanderbilt,Danny
 South R1-4,Nebraska,Danny
-South R1-5,N.,Danny
+South R1-5,N.-Carolina,Danny
 South R1-6,Illinois,Danny
 South R1-7,Texas-A&M,Danny
 South R1-8,Houston,Danny
@@ -594,7 +594,7 @@ Midwest R1-1,Michigan,Danny
 Midwest R1-2,Georgia,Danny
 Midwest R1-3,Texas-Tech,Danny
 Midwest R1-4,Alabama,Danny
-Midwest R1-5,Carolina,Danny
+Midwest R1-5,MIAOH/SMU,Danny
 Midwest R1-6,Virginia,Danny
 Midwest R1-7,Kentucky,Danny
 Midwest R1-8,Iowa-St.,Danny
@@ -767,7 +767,7 @@ South R1-1,Florida,Jack
 South R1-2,Clemson,Jack
 South R1-3,Vanderbilt,Jack
 South R1-4,Nebraska,Jack
-South R1-5,N.,Jack
+South R1-5,N.-Carolina,Jack
 South R1-6,Penn,Jack
 South R1-7,Texas-A&M,Jack
 South R1-8,Houston,Jack
@@ -783,7 +783,7 @@ Midwest R1-1,Michigan,Jack
 Midwest R1-2,Saint-Louis,Jack
 Midwest R1-3,Texas-Tech,Jack
 Midwest R1-4,Alabama,Jack
-Midwest R1-5,Carolina,Jack
+Midwest R1-5,Tennessee,Jack
 Midwest R1-6,Virginia,Jack
 Midwest R1-7,Kentucky,Jack
 Midwest R1-8,Iowa-St.,Jack
@@ -793,7 +793,7 @@ East R2-3,MICHST,Jack
 East R2-4,UCF,Jack
 South R2-1,Florida,Jack
 South R2-2,Vanderbilt,Jack
-South R2-3,N.,Jack
+South R2-3,N.-Carolina,Jack
 South R2-4,Houston,Jack
 West R2-1,Arizona,Jack
 West R2-2,Wisconsin,Jack
@@ -801,7 +801,7 @@ West R2-3,BYU,Jack
 West R2-4,Miami,Jack
 Midwest R2-1,Michigan,Jack
 Midwest R2-2,Texas-Tech,Jack
-Midwest R2-3,Carolina,Jack
+Midwest R2-3,Tennessee,Jack
 Midwest R2-4,Iowa-St.,Jack
 East S16-1,Duke,Jack
 East S16-2,MICHST,Jack
@@ -893,7 +893,7 @@ South R1-1,Florida,Kyle
 South R1-2,Clemson,Kyle
 South R1-3,Vanderbilt,Kyle
 South R1-4,Nebraska,Kyle
-South R1-5,N.,Kyle
+South R1-5,N.-Carolina,Kyle
 South R1-6,Penn,Kyle
 South R1-7,MARYCA,Kyle
 South R1-8,Houston,Kyle
@@ -909,7 +909,7 @@ Midwest R1-1,Michigan,Kyle
 Midwest R1-2,Saint-Louis,Kyle
 Midwest R1-3,Akron,Kyle
 Midwest R1-4,Alabama,Kyle
-Midwest R1-5,Carolina,Kyle
+Midwest R1-5,Tennessee,Kyle
 Midwest R1-6,Virginia,Kyle
 Midwest R1-7,Santa-Clara,Kyle
 Midwest R1-8,Iowa-St.,Kyle
@@ -1208,7 +1208,7 @@ South R1-1,Florida,Sophie
 South R1-2,Iowa,Sophie
 South R1-3,McNeese,Sophie
 South R1-4,Nebraska,Sophie
-South R1-5,N.,Sophie
+South R1-5,N.-Carolina,Sophie
 South R1-6,Illinois,Sophie
 South R1-7,Texas-A&M,Sophie
 South R1-8,Houston,Sophie
@@ -1224,7 +1224,7 @@ Midwest R1-1,Michigan,Sophie
 Midwest R1-2,Georgia,Sophie
 Midwest R1-3,Texas-Tech,Sophie
 Midwest R1-4,Alabama,Sophie
-Midwest R1-5,Carolina,Sophie
+Midwest R1-5,Tennessee,Sophie
 Midwest R1-6,Virginia,Sophie
 Midwest R1-7,Kentucky,Sophie
 Midwest R1-8,Iowa-St.,Sophie
@@ -1271,7 +1271,7 @@ South R1-1,Florida,Yacht
 South R1-2,Clemson,Yacht
 South R1-3,Vanderbilt,Yacht
 South R1-4,Nebraska,Yacht
-South R1-5,N.,Yacht
+South R1-5,N.-Carolina,Yacht
 South R1-6,Illinois,Yacht
 South R1-7,MARYCA,Yacht
 South R1-8,Houston,Yacht
@@ -1287,7 +1287,7 @@ Midwest R1-1,Michigan,Yacht
 Midwest R1-2,Georgia,Yacht
 Midwest R1-3,Texas-Tech,Yacht
 Midwest R1-4,Hofstra,Yacht
-Midwest R1-5,Carolina,Yacht
+Midwest R1-5,Tennessee,Yacht
 Midwest R1-6,Virginia,Yacht
 Midwest R1-7,Kentucky,Yacht
 Midwest R1-8,Iowa-St.,Yacht
